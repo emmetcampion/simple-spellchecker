@@ -27,7 +27,6 @@
   "dependencies": {
     "binarysearch": "^0.2.4",
     "damerau-levenshtein": "git://github.com/cbaatz/damerau-levenshtein.git",
-    "npm": "^3.8.0",
     "strip-bom": "^2.0.0",
     "unzip": "^0.1.11"
   }
